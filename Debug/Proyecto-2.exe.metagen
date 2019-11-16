@@ -1,0 +1,43 @@
+  Proyecto2.Actividades.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2.Agenda.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto-2, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Proyecto2.Actividades: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String texto1 : Public, Static
+    PilaActividades[] actividades1 : Public, Static
+    PilaActividades[] actividades2 : Public, Static
+Class Proyecto2.Agenda: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 num2 : Public, Static
+    PilaActividades[] actividades1 : Public, Static
+    PilaActividades[] actividades2 : Public, Static
+    PilaRecordatorios[] recordatorios1 : Public, Static
+    PilaRecordatorios[] recordatorios2 : Public, Static
+    PilaAlarmas[] alarmas1 : Public, Static
+    PilaAlarmas[] alarmas2 : Public, Static
+    System.ValueType[] almacenarActividadesIguales : Public, Static
+    System.ValueType[] almacenarRecordatoriosIguales : Public, Static
+    System.ValueType[] almacenarAlarmasIguales : Public, Static
+    System.ValueType[] horasActividades : Public, Static
+    System.ValueType[] horasActividades1 : Public, Static
+    System.ValueType[] horasRecordatorios1 : Public, Static
+    System.ValueType[] horasRecordatorios2 : Public, Static
+    System.ValueType[] identificadoresActividades : Public, Static

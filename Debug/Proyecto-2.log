@@ -1,0 +1,20 @@
+﻿  Agenda.cpp
+C:\Users\Pablo\Desktop\Proyecto-2\PilaActividades.h(21,74) : warning C4042: 'actividades1': tiene una clase de almacenamiento incorrecta
+C:\Users\Pablo\Desktop\Proyecto-2\PilaRecordatorios.h(11,80) : warning C4042: 'recordatorios1': tiene una clase de almacenamiento incorrecta
+C:\Users\Pablo\Desktop\Proyecto-2\PilaAlarmas.h(10,62) : warning C4042: 'alarmas1': tiene una clase de almacenamiento incorrecta
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(30,48) : warning C4677: 'actividades1': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaActividades'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaActividades.h(5) : message : vea la declaración de 'PilaActividades'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(31,48) : warning C4677: 'actividades2': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaActividades'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaActividades.h(5) : message : vea la declaración de 'PilaActividades'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(32,52) : warning C4677: 'recordatorios1': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaRecordatorios'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaRecordatorios.h(5) : message : vea la declaración de 'PilaRecordatorios'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(33,52) : warning C4677: 'recordatorios2': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaRecordatorios'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaRecordatorios.h(5) : message : vea la declaración de 'PilaRecordatorios'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(34,40) : warning C4677: 'alarmas1': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaAlarmas'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaAlarmas.h(3) : message : vea la declaración de 'PilaAlarmas'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(35,40) : warning C4677: 'alarmas2': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'PilaAlarmas'
+C:\Users\Pablo\Desktop\Proyecto-2\PilaAlarmas.h(3) : message : vea la declaración de 'PilaAlarmas'
+C:\Users\Pablo\Desktop\Proyecto-2\Agenda.h(2537,1) : warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506) : message : vea la declaración de 'localtime'
+  Actividad.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Proyecto-2.vcxproj -> C:\Users\Pablo\Desktop\Proyecto-2\Debug\Proyecto-2.exe
